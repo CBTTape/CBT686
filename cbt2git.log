@@ -1,0 +1,7 @@
+2023-08-06 06:29:19.578886 - Initialized conversion of CBT686
+2023-08-06 06:29:19.614849 - Received CBT.V505.FILE686.PDS from FILE686.XMI 
+2023-08-06 06:29:19.617053 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE686.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:29:19.618156 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE686.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:29:19.619115 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE686.PDS, moved to PDS/$$NOTE2
+2023-08-06 06:29:19.620064 - Found @FILE686.txt (text/plain) in CBT.V505.FILE686.PDS, moved to PDS/@FILE686
+2023-08-06 06:29:19.621024 - Found SMFDUMP.txt (text/plain) in CBT.V505.FILE686.PDS, moved to PDS/SMFDUMP
